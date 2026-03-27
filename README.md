@@ -1,3 +1,11 @@
+## Desarrollador
+
+**Emir Polito**
+- Frontend Developer (React / Next.js)
+- GitHub: https://github.com/EmirPolito
+- Linkedin: https://www.linkedin.com/in/emir-polito-g/
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

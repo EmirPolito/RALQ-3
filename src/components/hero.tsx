@@ -122,12 +122,12 @@ export const Hero = ({
 
 export const Header = () => {
   return (
-    <div className="max-w-7xl relative mx-auto pt-28 md:pt-32 pb-20 md:pb-3 px-5 w-full left-0 top-0">
+    <div className="max-w-7xl relative mx-auto pt-28 md:pt-32 pb-20 md:pb-10 px-10 w-full left-0 top-0">
       <h1 className="text-xl md:text-6xl font-bold dark:text-white">
         Visualiza y aprende <br /> en realidad aumentada
       </h1>
 
-      <p className="max-w-2xl text-base md:text-lg mt-4 dark:text-neutral-200">
+      <p className="max-w-2xl text-base md:text-lg mt-5 dark:text-neutral-200">
         Explora instrumentos de laboratorio y estructuras moleculares en 3D,
         interactuando con ellos como si estuvieras en un laboratorio. Accede
         desde cualquier dispositivo y aprende química de una mejor forma.
