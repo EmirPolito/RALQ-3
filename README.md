@@ -1,9 +1,12 @@
+![a10a756c-1eff-4e16-a53c-2a478cdca5e6](https://github.com/user-attachments/assets/5e4fb157-23ff-409b-a2f8-e9b16e87d75d)
+
 ## Desarrollador
 
 **Emir Polito**
 - Frontend Developer (React / Next.js)
 - GitHub: https://github.com/EmirPolito
 - Linkedin: https://www.linkedin.com/in/emir-polito-g/
+
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
