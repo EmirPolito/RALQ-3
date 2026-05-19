@@ -3,7 +3,7 @@
 ## Desarrollador
 
 **Emir Polito**
-- Frontend Developer (React / Next.js)
+- Frontend & QA Tester
 - GitHub: https://github.com/EmirPolito
 - Linkedin: https://www.linkedin.com/in/emir-polito-g/
 
